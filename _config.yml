@@ -1,0 +1,48 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: "LAND_OF_BABEL@Sherry.1.0.0"
+name: "LAND_OF_BABEL@Sherry.1.0.0"
+email: "jonathan.cardenas430@gmail.com"
+
+author: "astalotte"
+
+description: "Blog dedicated to talking about programming and the quirks of NLP / translation"
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://jcardenas9x.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+twitter: trancehime
+github:  jcardenas9x
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
+permalink: pretty
+highlighter: pygments
+
+future: true
+
+paginate: 10
+paginate_path: "/page/:num"
+
+# SCSS
+
+sass:
+  sass_dir: _scss
+  style: :compressed
