@@ -34,7 +34,7 @@ plugins:
   - jekyll-paginate
 
 permalink: pretty
-highlighter: pygments
+highlighter: rouge
 
 future: true
 
