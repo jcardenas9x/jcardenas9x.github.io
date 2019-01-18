@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Preparation for 2019: #100DaysOfCode"
+date:   2019-01-18 19:50:00
+---
+
+It has been well over two months since my last post - during this time I have been getting my bearings at the company I presently work at and have been immediately put to work. That said, having now integrated myself into a new team fairly well enough in my opinion, it has revealed to me that my front-end development skills could be improved. 
+
+As a result, I plan to commit to the #100DaysOfCode challenge. My personal goal for this challenge is to improve my web development skills focusing on front-end (it is, after all, what is on my current job title) while at the same time attempting to contribute to a community I've found myself engaging in positively.
+
+I plan to create an English database/guide site for a mobile game titled *Romancing SaGa re:UniverSe*, currently only available for download in Japan. It was released on December 6, 2018, and has performed incredibly well for a new mobile title, riding high on the SaGa name, something incredibly beloved by mid-90's video game players. I, myself, grew up with the SaGa series playing *Final Fantasy Legend II* (the US release of *SaGa 2: Hihou Densetsu*) and eventually fell in love with the series after playing *SaGa Frontier* for the PSX.
+
+While the English speaking community for this game isn't too big, those who are currently playing are very much also die-hard fans of the series and I'd like to give something to them too.
+
+Things I need to prepare before I begin tomorrow:
+
+* APK mining plans for data, assets
+* UI/UX design
+* Hosting solutions (Netlify vs surge.sh vs ...)
+* Static site stack
+
+I look forward to working on this project. Many thanks to user @Marten on the RomancingSaGa Discord server for being very willing to help me on the data gathering front, as she has been the one to do the APK mining for the game in the most part. 
